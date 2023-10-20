@@ -1,2 +1,2 @@
-# PUZ
-Repository for PUZ class from Master degree program
+# PAD
+Repository for PAD class from Master degree program
